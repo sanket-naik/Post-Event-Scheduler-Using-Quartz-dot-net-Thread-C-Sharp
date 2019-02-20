@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating the xml tree-->
+<Jobs>
+  <Job Id="1">
+    <Email>Abhi.naik@outlook.com</Email>
+    <Task>Get the work done</Task>
+    <Date>13-02</Date>
+  </Job>
+  <Job Id="2">
+    <Email>110san@gmail.com</Email>
+    <Task>Complete on time</Task>
+    <Date>20-02</Date>
+  </Job>
+  <Job Id="3">
+    <Email>abhin@yahoo.com</Email>
+    <Task>Do the testing</Task>
+    <Date>13-02</Date>
+  </Job>
+  <Job Id="4">
+    <Email>John@cner.com</Email>
+    <Task>Manage the server</Task>
+    <Date>14-02</Date>
+  </Job>
+</Jobs>

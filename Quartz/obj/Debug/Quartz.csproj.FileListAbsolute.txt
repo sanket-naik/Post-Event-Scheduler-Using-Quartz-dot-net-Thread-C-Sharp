@@ -1,0 +1,16 @@
+C:\Users\Sanket\source\repos\Quartz\Quartz\obj\Debug\Quartz.csprojAssemblyReference.cache
+C:\Users\Sanket\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CoreCompileInputs.cache
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe.config
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Quartz.exe
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Quartz.pdb
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.Core.dll
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.dll
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Quartz.dll
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.pdb
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.xml
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Common.Logging.Core.xml
+C:\Users\Sanket\source\repos\Quartz\Quartz\bin\Debug\Quartz.xml
+C:\Users\Sanket\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CopyComplete
+C:\Users\Sanket\source\repos\Quartz\Quartz\obj\Debug\Quartz.exe
+C:\Users\Sanket\source\repos\Quartz\Quartz\obj\Debug\Quartz.pdb
